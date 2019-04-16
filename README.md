@@ -12,8 +12,8 @@
 
 ## Результат
 
-В качестве результата хочется увидеть 2 json-файла:
-locationsTree.json, categories.json, categoriesMoscow.json, categoriesNovgorod.json, categoriesArmavir.json
+В качестве результата хочется увидеть json-файлы:
+locationsTree.json, categories.json, categoriesMoscow.json
 
 ## Дополнительные опции:
 
