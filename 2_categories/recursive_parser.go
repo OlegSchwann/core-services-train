@@ -1,7 +1,7 @@
 package main
 
 import (
-	"avitoTest/2_categories/category_item"
+	"github.com/OlegSchwann/core-services-train/2_categories/category_item"
 	"golang.org/x/net/html"
 )
 

@@ -1,9 +1,10 @@
 package category_generator
 
 import (
-	"avitoTest/2_categories/category_item"
 	"fmt"
+	"github.com/OlegSchwann/core-services-train/2_categories/category_item"
 	"reflect"
+	"strconv"
 	"testing"
 )
 
@@ -81,12 +82,12 @@ func TestGenerator(t *testing.T) {
 		"/igry_pristavki_i_programmy/igry_dlya_pristavok",
 		"/igry_pristavki_i_programmy/igrovye_pristavki"}
 
-	var locations []string
-	for location := range CategoryGenerator(&testCategoryItem) {
-		locations = append(locations, location)
+	var categories []string
+	for category := range CategoryGenerator(&testCategoryItem) {
+		categories = append(categories, strconv.Itoa(category))
 	}
 
-	if !reflect.DeepEqual(locations, expectedResult) {
-		t.Error(fmt.Sprintf("Expected\n\n: %#v\n\n, got:\n\n %#v\n\n", expectedResult, locations))
+	if !reflect.DeepEqual(categories, expectedResult) {
+		t.Error(fmt.Sprintf("Expected\n\n: %#v\n\n, got:\n\n %#v\n\n", expectedResult, categories))
 	}
 }

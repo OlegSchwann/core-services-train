@@ -1,7 +1,7 @@
 package worker_creator
 
 import (
-	"avitoTest/3_categories_moscow/worker"
+	"github.com/OlegSchwann/core-services-train/3_categories_moscow/worker"
 	"time"
 )
 

@@ -1,7 +1,7 @@
 package category_generator
 
 import (
-	"avitoTest/2_categories/category_item"
+	"github.com/OlegSchwann/core-services-train/2_categories/category_item"
 	"regexp"
 )
 

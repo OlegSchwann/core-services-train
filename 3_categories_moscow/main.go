@@ -1,12 +1,12 @@
 package main
 
 import (
-	"avitoTest/2_categories/category_item"
-	"avitoTest/3_categories_moscow/category_generator"
-	_type "avitoTest/3_categories_moscow/type"
-	"avitoTest/3_categories_moscow/worker_creator"
 	"flag"
 	"fmt"
+	"github.com/OlegSchwann/core-services-train/2_categories/category_item"
+	"github.com/OlegSchwann/core-services-train/3_categories_moscow/category_generator"
+	_type "github.com/OlegSchwann/core-services-train/3_categories_moscow/type"
+	"github.com/OlegSchwann/core-services-train/3_categories_moscow/worker_creator"
 	"io/ioutil"
 	"log"
 	"os"

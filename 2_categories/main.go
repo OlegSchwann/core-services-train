@@ -1,8 +1,8 @@
 package main
 
 import (
-	"avitoTest/2_categories/category_item"
 	"fmt"
+	"github.com/OlegSchwann/core-services-train/2_categories/category_item"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/pkg/errors"
 	"net/http"
