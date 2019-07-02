@@ -1,0 +1,2358 @@
+{
+  "title": "Любая категория",
+  "href": "https://www.avito.ru/rossiya",
+  "childes": [
+    {
+      "title": "Животные",
+      "href": "https://www.avito.ru/rossiya/zhivotnye?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Собаки",
+          "href": "https://www.avito.ru/rossiya/sobaki?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Кошки",
+          "href": "https://www.avito.ru/rossiya/koshki?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Птицы",
+          "href": "https://www.avito.ru/rossiya/ptitsy?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Аквариум",
+          "href": "https://www.avito.ru/rossiya/akvarium?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Другие животные",
+          "href": "https://www.avito.ru/rossiya/drugie_zhivotnye?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Амфибии",
+              "href": "https://www.avito.ru/rossiya/drugie_zhivotnye/amfibii?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Грызуны",
+              "href": "https://www.avito.ru/rossiya/drugie_zhivotnye/gryzuny?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Кролики",
+              "href": "https://www.avito.ru/rossiya/drugie_zhivotnye/kroliki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Лошади",
+              "href": "https://www.avito.ru/rossiya/drugie_zhivotnye/loshadi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Рептилии",
+              "href": "https://www.avito.ru/rossiya/drugie_zhivotnye/reptilii?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "С/х животные",
+              "href": "https://www.avito.ru/rossiya/drugie_zhivotnye/sh_zhivotnye?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Хорьки",
+              "href": "https://www.avito.ru/rossiya/drugie_zhivotnye/horki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/drugie_zhivotnye/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Товары для животных",
+          "href": "https://www.avito.ru/rossiya/tovary_dlya_zhivotnyh?s_trg=11\u0026cd=1"
+        }
+      ]
+    },
+    {
+      "title": "Для бизнеса",
+      "href": "https://www.avito.ru/rossiya/dlya_biznesa?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Готовый бизнес",
+          "href": "https://www.avito.ru/rossiya/gotoviy_biznes?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Интернет-магазин",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/internet-magazin?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Общественное питание",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/obschestvennoe_pitanie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Производство",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/proizvodstvo?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Развлечения",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/razvlecheniya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Сельское хозяйство",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/selskoe_hozyaystvo?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Строительство",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/stroitelstvo?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Сфера услуг",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/sfera_uslug?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Торговля",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/torgovlya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/gotoviy_biznes/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Оборудование для бизнеса",
+          "href": "https://www.avito.ru/rossiya/oborudovanie_dlya_biznesa?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Для магазина",
+              "href": "https://www.avito.ru/rossiya/oborudovanie_dlya_biznesa/dlya_magazina?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Для офиса",
+              "href": "https://www.avito.ru/rossiya/oborudovanie_dlya_biznesa/dlya_ofisa?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Для ресторана",
+              "href": "https://www.avito.ru/rossiya/oborudovanie_dlya_biznesa/dlya_restorana?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Для салона красоты",
+              "href": "https://www.avito.ru/rossiya/oborudovanie_dlya_biznesa/dlya_salona_krasoty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Промышленное",
+              "href": "https://www.avito.ru/rossiya/oborudovanie_dlya_biznesa/promyshlennoe?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/oborudovanie_dlya_biznesa/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Услуги",
+      "href": "https://www.avito.ru/rossiya/predlozheniya_uslug?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "IT, интернет, телеком",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/it_internet_telekom?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Cоздание и продвижение сайтов",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/it_internet_telekom/sozdaniye_i_prodvizheniye_saytov?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Установка и настройка ПО",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/it_internet_telekom/ustanovka_i_nastroyka_po?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Настройка интернета и сетей",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/it_internet_telekom/nastroyka_interneta_i_setey?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Мастер на все случаи",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/it_internet_telekom/master_na_vse_sluchai?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Бытовые услуги",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/bytovye_uslugi?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Изготовление ключей",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/bytovye_uslugi/izgotovlenie_klyuchey?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Пошив и ремонт одежды",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/bytovye_uslugi/poshiv_i_remont_odezhdy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ремонт часов",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/bytovye_uslugi/remont_chasov?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Химчистка, стирка",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/bytovye_uslugi/himchistka_stirka?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ювелирные услуги",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/bytovye_uslugi/yuvelirnye_uslugi?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Деловые услуги",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/delovye_uslugi?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Бухгалтерия, финансы",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/delovye_uslugi/buhgalteriya_finansy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Консультирование",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/delovye_uslugi/konsultirovanie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Набор и коррекция текста",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/delovye_uslugi/nabor_i_korrektsiya_teksta?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Перевод",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/delovye_uslugi/perevod?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Юридические услуги",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/delovye_uslugi/yuridicheskie_uslugi?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Искусство",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/iskusstvo?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Красота, здоровье",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/krasota_zdorove?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Услуги парикмахера",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/krasota_zdorove/uslugi_parikmahera?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Маникюр, педикюр",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/krasota_zdorove/manikyur_pedikyur?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Макияж",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/krasota_zdorove/makiyazh?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Косметология, эпиляция",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/krasota_zdorove/kosmetologiya_epilyaciya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "СПА-услуги, здоровье",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/krasota_zdorove/spa_uslugi_zdorovie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Тату, пирсинг",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/krasota_zdorove/raru_pirsing?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/krasota_zdorove/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Курьерские поручения",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/kurerskie_uslugi?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Мастер на час",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/master_na_chas?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Няни, сиделки",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/nyani_sidelki?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Оборудование, производство",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/oborudovanie_proizvodstvo?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Аренда оборудования",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/oborudovanie_proizvodstvo/arenda_oborudovaniya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Монтаж и обслуживание оборудования",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/oborudovanie_proizvodstvo/montazh_i_obsluzhivanie_oborudovaniya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Производство, обработка",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/oborudovanie_proizvodstvo/proizvodstvo_obrabotka?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Обучение, курсы",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Предметы школы и ВУЗа",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/predmeti_shkoli_i_vuza?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Иностранные языки",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/inostrannie_yaziki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Вождение",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/vozhdenie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Музыка, театр",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/muzika_teatr?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Спорт, танцы",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/sport_tanzi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Рисование, дизайн, рукоделие",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/risovanie_dizain_rukodelie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Профессиональная подготовка",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/proffesionalnaya_podgotovka?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Детское развитие, логопеды",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/detskoe_razvitie_logopedi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/obuchenie_kursy/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Охрана, безопасность",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/ohrana_bezopasnost?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Питание, кейтеринг",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/pitanie_keytering?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Праздники, мероприятия",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/prazdniki_meropriyatiya?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Реклама, полиграфия",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/reklama_poligrafiya?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Маркетинг, реклама, PR",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/reklama_poligrafiya/marketing_reklama_pr?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Полиграфия, дизайн",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/reklama_poligrafiya/poligrafiya_dizayn?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Ремонт и обслуживание техники",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_i_obsluzhivanie_tehniki?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Телевизоры",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/televizor?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Мобильные устройства",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/mobilnyye_ustroystva?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Мелкая бытовая техника",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/melkaya_bytovaya_tekhnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Фото-, аудио-, видеотехника",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/foto_audio_videotekhnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Компьютерная техника",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/Kompyuternaya_tekhnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Игровые приставки",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/igrovyye_pristavki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Крупная бытовая техника",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/krupnaya_bytovaya_tekhnika?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Ремонт, строительство",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Сборка и ремонт мебели",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/sborka_i_remont_mebeli?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Отделочные работы",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/melkiy_bytovoy_remont?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Электрика",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/elektrika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Сантехника",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/santekhnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ремонт офиса",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/remont_ofisa?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Остекление балконов",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/ostekleniye_balkonov?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ремонт ванной",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/remont_vannoy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Строительство бань, саун",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/stroitelstvo_ban_saun?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ремонт кухни",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/remont_kuhni?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Строительство домов, коттеджей",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/stroitelstvo_domov_kottedzhey?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ремонт квартиры",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/remont_stroitelstvo/remont_kvartiri?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Сад, благоустройство",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/sad_blagoustroystvo?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Транспорт, перевозки",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/transport_perevozki?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Автосервис",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/transport_perevozki/avtoservis?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Аренда авто",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/transport_perevozki/arenda_avto?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Коммерческие перевозки",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/transport_perevozki/kommercheskiye_perevozki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Грузчики",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/transport_perevozki/gruzchiki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Переезды",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/transport_perevozki/pereyezdy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Спецтехника",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/transport_perevozki/spetstekhnika?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Уборка",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Вывоз мусора",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining/vyvoz_musora?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Генеральная уборка",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining/generalnaya_uborka?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Глажка белья",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining/glazhka_belya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Мойка окон",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining/moyka_okon?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Простая уборка",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining/prostaya_uborka?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Уборка после ремонта",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining/uborka_posle_remonta?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Чистка ковров",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining/chistka_kovrov?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Чистка мягкой мебели",
+              "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uborka_klining/chistka_myagkoy_mebeli?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Установка техники",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/ustanovka_tehniki?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Уход за животными",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/uhod_za_zhivotnymi?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Фото- и видеосъёмка",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/foto-_i_videosemka?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Другое",
+          "href": "https://www.avito.ru/rossiya/predlozheniya_uslug/drugoe?s_trg=11\u0026cd=1"
+        }
+      ]
+    },
+    {
+      "title": "Хобби и отдых",
+      "href": "https://www.avito.ru/rossiya/hobbi_i_otdyh?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Билеты и путешествия",
+          "href": "https://www.avito.ru/rossiya/bilety_i_puteshestviya?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Карты, купоны",
+              "href": "https://www.avito.ru/rossiya/bilety_i_puteshestviya/karty_kupony?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Концерты",
+              "href": "https://www.avito.ru/rossiya/bilety_i_puteshestviya/kontserty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Путешествия",
+              "href": "https://www.avito.ru/rossiya/bilety_i_puteshestviya/puteshestviya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Спорт",
+              "href": "https://www.avito.ru/rossiya/bilety_i_puteshestviya/sport?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Театр, опера, балет",
+              "href": "https://www.avito.ru/rossiya/bilety_i_puteshestviya/teatr_opera_balet?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Цирк, кино",
+              "href": "https://www.avito.ru/rossiya/bilety_i_puteshestviya/tsirk_kino?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Шоу, мюзикл",
+              "href": "https://www.avito.ru/rossiya/bilety_i_puteshestviya/shou_myuzikl?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Велосипеды",
+          "href": "https://www.avito.ru/rossiya/velosipedy?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Горные",
+              "href": "https://www.avito.ru/rossiya/velosipedy/gornye?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Дорожные",
+              "href": "https://www.avito.ru/rossiya/velosipedy/dorozhnye?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "ВМХ",
+              "href": "https://www.avito.ru/rossiya/velosipedy/bmx?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Детские",
+              "href": "https://www.avito.ru/rossiya/velosipedy/detskie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Запчасти и аксессуары",
+              "href": "https://www.avito.ru/rossiya/velosipedy/zapchasti_i_aksessuary?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Книги и журналы",
+          "href": "https://www.avito.ru/rossiya/knigi_i_zhurnaly?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Журналы, газеты, брошюры",
+              "href": "https://www.avito.ru/rossiya/knigi_i_zhurnaly/zhurnaly_gazety_broshyury?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Книги",
+              "href": "https://www.avito.ru/rossiya/knigi_i_zhurnaly/knigi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Учебная литература",
+              "href": "https://www.avito.ru/rossiya/knigi_i_zhurnaly/uchebnaya_literatura?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Коллекционирование",
+          "href": "https://www.avito.ru/rossiya/kollektsionirovanie?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Банкноты",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/banknoty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Билеты",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/bilety?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Вещи знаменитостей, автографы",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/veschi_znamenitostey_avtografy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Военные вещи",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/voennye_veschi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Грампластинки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/gramplastinki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Документы",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/dokumenty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Жетоны, медали, значки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/zhetony_medali_znachki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Игры",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/igry?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Календари",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/kalendari?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Картины",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/kartiny?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Киндер-сюрприз",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/kinder-syurpriz?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Конверты и почтовые карточки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/konverty_i_pochtovye_kartochki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Макеты оружия",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/makety_oruzhiya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Марки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/marki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Модели",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/modeli?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Монеты",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/monety?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Открытки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/otkrytki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Пепельницы, зажигалки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/pepelnicy_zazhigalki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Пластиковые карточки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/plastikovye_kartochki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Спортивные карточки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/sportivnye_kartochki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Фотографии, письма",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/fotografii_pisma?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Этикетки, бутылки, пробки",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/etiketki_butylki_probki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/kollektsionirovanie/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Музыкальные инструменты",
+          "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Аккордеоны, гармони, баяны",
+              "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty/akkordeony_garmoni_bayany?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Гитары и другие струнные",
+              "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty/gitary_i_drugie_strunnye?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Духовые",
+              "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty/duhovye?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Пианино и другие клавишные",
+              "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty/pianino_i_drugie_klavishnye?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Скрипки и другие смычковые",
+              "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty/skripki_i_drugie_smychkovye?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ударные",
+              "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty/udarnye?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Для студии и концертов",
+              "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty/dlya_studii_i_kontsertov?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Аксессуары",
+              "href": "https://www.avito.ru/rossiya/muzykalnye_instrumenty/aksessuary?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Охота и рыбалка",
+          "href": "https://www.avito.ru/rossiya/ohota_i_rybalka?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Спорт и отдых",
+          "href": "https://www.avito.ru/rossiya/sport_i_otdyh?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Бильярд и боулинг",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/bilyard_i_bouling?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Дайвинг и водный спорт",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/dayving_i_vodnyy_sport?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Единоборства",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/edinoborstva?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Зимние виды спорта",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/zimnie_vidy_sporta?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Игры с мячом",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/igry_s_myachom?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Настольные игры",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/nastolnye_igry?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Пейнтбол и страйкбол",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/peyntbol_i_straykbol?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ролики и скейтбординг",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/roliki_i_skeytbording?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Теннис, бадминтон, пинг-понг",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/tennis_badminton_ping-pong?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Туризм",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/turizm?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Фитнес и тренажёры",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/fitnes_i_trenazhery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Спортивное питание",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/sportivnoe_pitanie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/sport_i_otdyh/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Недвижимость",
+      "href": "https://www.avito.ru/rossiya/nedvizhimost?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Квартиры",
+          "href": "https://www.avito.ru/rossiya/kvartiry?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Комнаты",
+          "href": "https://www.avito.ru/rossiya/komnaty?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Дома, дачи, коттеджи",
+          "href": "https://www.avito.ru/rossiya/doma_dachi_kottedzhi?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Земельные участки",
+          "href": "https://www.avito.ru/rossiya/zemelnye_uchastki?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Гаражи и машиноместа",
+          "href": "https://www.avito.ru/rossiya/garazhi_i_mashinomesta?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Коммерческая недвижимость",
+          "href": "https://www.avito.ru/rossiya/kommercheskaya_nedvizhimost?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Недвижимость за рубежом",
+          "href": "https://www.avito.ru/rossiya/nedvizhimost_za_rubezhom?s_trg=11\u0026cd=1"
+        }
+      ]
+    },
+    {
+      "title": "Работа",
+      "href": "https://www.avito.ru/rossiya/rabota?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Вакансии",
+          "href": "https://www.avito.ru/rossiya/vakansii?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "IT, интернет, телеком",
+              "href": "https://www.avito.ru/rossiya/vakansii/it_internet_telekom?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Автомобильный бизнес",
+              "href": "https://www.avito.ru/rossiya/vakansii/avtomobilnyy_biznes?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Административная работа",
+              "href": "https://www.avito.ru/rossiya/vakansii/administrativnaya_rabota?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Банки, инвестиции",
+              "href": "https://www.avito.ru/rossiya/vakansii/banki_investitsii?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Без опыта, студенты",
+              "href": "https://www.avito.ru/rossiya/vakansii/bez_opyta_studenty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Бухгалтерия, финансы",
+              "href": "https://www.avito.ru/rossiya/vakansii/buhgalteriya_finansy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Высший менеджмент",
+              "href": "https://www.avito.ru/rossiya/vakansii/vysshiy_menedzhment?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Госслужба, НКО",
+              "href": "https://www.avito.ru/rossiya/vakansii/gossluzhba_nko?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Домашний персонал",
+              "href": "https://www.avito.ru/rossiya/vakansii/domashniy_personal?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "ЖКХ, эксплуатация",
+              "href": "https://www.avito.ru/rossiya/vakansii/zhkh_ekspluatatsiya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Искусство, развлечения",
+              "href": "https://www.avito.ru/rossiya/vakansii/iskusstvo_razvlecheniya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Консультирование",
+              "href": "https://www.avito.ru/rossiya/vakansii/konsultirovanie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Маркетинг, реклама, PR",
+              "href": "https://www.avito.ru/rossiya/vakansii/marketing_reklama_pr?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Медицина, фармацевтика",
+              "href": "https://www.avito.ru/rossiya/vakansii/meditsina_farmatsevtika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Образование, наука",
+              "href": "https://www.avito.ru/rossiya/vakansii/obrazovanie_nauka?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Охрана, безопасность",
+              "href": "https://www.avito.ru/rossiya/vakansii/ohrana_bezopasnost?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Продажи",
+              "href": "https://www.avito.ru/rossiya/vakansii/prodazhi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Производство, сырьё, с/х",
+              "href": "https://www.avito.ru/rossiya/vakansii/proizvodstvo_syryo_sh?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Страхование",
+              "href": "https://www.avito.ru/rossiya/vakansii/strahovanie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Строительство",
+              "href": "https://www.avito.ru/rossiya/vakansii/stroitelstvo?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Транспорт, логистика",
+              "href": "https://www.avito.ru/rossiya/vakansii/transport_logistika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Туризм, рестораны",
+              "href": "https://www.avito.ru/rossiya/vakansii/turizm_restorany?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Управление персоналом",
+              "href": "https://www.avito.ru/rossiya/vakansii/upravlenie_personalom?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Фитнес, салоны красоты",
+              "href": "https://www.avito.ru/rossiya/vakansii/fitnes_salony_krasoty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Юриспруденция",
+              "href": "https://www.avito.ru/rossiya/vakansii/yurisprudentsiya?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Резюме",
+          "href": "https://www.avito.ru/rossiya/rezume?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "IT, интернет, телеком",
+              "href": "https://www.avito.ru/rossiya/rezume/it_internet_telekom?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Автомобильный бизнес",
+              "href": "https://www.avito.ru/rossiya/rezume/avtomobilnyy_biznes?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Административная работа",
+              "href": "https://www.avito.ru/rossiya/rezume/administrativnaya_rabota?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Банки, инвестиции",
+              "href": "https://www.avito.ru/rossiya/rezume/banki_investitsii?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Без опыта, студенты",
+              "href": "https://www.avito.ru/rossiya/rezume/bez_opyta_studenty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Бухгалтерия, финансы",
+              "href": "https://www.avito.ru/rossiya/rezume/buhgalteriya_finansy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Высший менеджмент",
+              "href": "https://www.avito.ru/rossiya/rezume/vysshiy_menedzhment?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Госслужба, НКО",
+              "href": "https://www.avito.ru/rossiya/rezume/gossluzhba_nko?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Домашний персонал",
+              "href": "https://www.avito.ru/rossiya/rezume/domashniy_personal?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "ЖКХ, эксплуатация",
+              "href": "https://www.avito.ru/rossiya/rezume/zhkh_ekspluatatsiya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Искусство, развлечения",
+              "href": "https://www.avito.ru/rossiya/rezume/iskusstvo_razvlecheniya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Консультирование",
+              "href": "https://www.avito.ru/rossiya/rezume/konsultirovanie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Маркетинг, реклама, PR",
+              "href": "https://www.avito.ru/rossiya/rezume/marketing_reklama_pr?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Медицина, фармацевтика",
+              "href": "https://www.avito.ru/rossiya/rezume/meditsina_farmatsevtika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Образование, наука",
+              "href": "https://www.avito.ru/rossiya/rezume/obrazovanie_nauka?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Охрана, безопасность",
+              "href": "https://www.avito.ru/rossiya/rezume/ohrana_bezopasnost?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Продажи",
+              "href": "https://www.avito.ru/rossiya/rezume/prodazhi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Производство, сырьё, с/х",
+              "href": "https://www.avito.ru/rossiya/rezume/proizvodstvo_syryo_sh?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Страхование",
+              "href": "https://www.avito.ru/rossiya/rezume/strahovanie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Строительство",
+              "href": "https://www.avito.ru/rossiya/rezume/stroitelstvo?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Транспорт, логистика",
+              "href": "https://www.avito.ru/rossiya/rezume/transport_logistika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Туризм, рестораны",
+              "href": "https://www.avito.ru/rossiya/rezume/turizm_restorany?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Управление персоналом",
+              "href": "https://www.avito.ru/rossiya/rezume/upravlenie_personalom?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Фитнес, салоны красоты",
+              "href": "https://www.avito.ru/rossiya/rezume/fitnes_salony_krasoty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Юриспруденция",
+              "href": "https://www.avito.ru/rossiya/rezume/yurisprudentsiya?s_trg=11\u0026cd=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Для дома и дачи",
+      "href": "https://www.avito.ru/rossiya/dlya_doma_i_dachi?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Бытовая техника",
+          "href": "https://www.avito.ru/rossiya/bytovaya_tehnika?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Для дома",
+              "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_doma?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Пылесосы",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_doma/pylesosy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Стиральные машины",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_doma/stiralnye_mashiny?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Утюги",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_doma/utyugi?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Швейные машины",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_doma/shveynye_mashiny?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Для индивидуального ухода",
+              "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_individualnogo_uhoda?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Бритвы и триммеры",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_individualnogo_uhoda/britvy_i_trimmery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Машинки для стрижки",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_individualnogo_uhoda/mashinki_dlya_strizhki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Фены и приборы для укладки",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_individualnogo_uhoda/feny_i_pribory_dlya_ukladki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Эпиляторы",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_individualnogo_uhoda/epilyatory?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Для кухни",
+              "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_kuhni?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Вытяжки",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_kuhni/vytyazhki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Мелкая кухонная техника",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_kuhni/melkaya_kuhonnaya_tehnika?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Микроволновые печи",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_kuhni/mikrovolnovye_pechi?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Плиты",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_kuhni/plity?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Посудомоечные машины",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_kuhni/posudomoechnye_mashiny?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Холодильники и морозильные камеры",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/dlya_kuhni/holodilniki_i_morozilnye_kamery?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Климатическое оборудование",
+              "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/klimaticheskoe_oborudovanie?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Вентиляторы",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/klimaticheskoe_oborudovanie/ventilyatory?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Кондиционеры",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/klimaticheskoe_oborudovanie/konditsionery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Обогреватели",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/klimaticheskoe_oborudovanie/obogrevateli?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Очистители воздуха",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/klimaticheskoe_oborudovanie/ochistiteli_vozduha?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Термометры и метеостанции",
+                  "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/klimaticheskoe_oborudovanie/termometry_i_meteostantsii?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/bytovaya_tehnika/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Мебель и интерьер",
+          "href": "https://www.avito.ru/rossiya/mebel_i_interer?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Компьютерные столы и кресла",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/kompyuternye_stoly_i_kresla?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Кровати, диваны и кресла",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/krovati_divany_i_kresla?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Кухонные гарнитуры",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/kuhonnye_garnitury?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Освещение",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/osveschenie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Подставки и тумбы",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/podstavki_i_tumby?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Предметы интерьера, искусство",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/predmety_interera_iskusstvo?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Столы и стулья",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/stoly_i_stulya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Текстиль и ковры",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/tekstil_i_kovry?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Шкафы и комоды",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/shkafy_i_komody?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другое",
+              "href": "https://www.avito.ru/rossiya/mebel_i_interer/drugoe?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Посуда и товары для кухни",
+          "href": "https://www.avito.ru/rossiya/posuda_i_tovary_dlya_kuhni?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Посуда",
+              "href": "https://www.avito.ru/rossiya/posuda_i_tovary_dlya_kuhni/posuda?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Товары для кухни",
+              "href": "https://www.avito.ru/rossiya/posuda_i_tovary_dlya_kuhni/tovary_dlya_kuhni?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Продукты питания",
+          "href": "https://www.avito.ru/rossiya/produkty_pitaniya?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Ремонт и строительство",
+          "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Двери",
+              "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo/dveri?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Инструменты",
+              "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo/instrumenty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Камины и обогреватели",
+              "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo/kaminy_i_obogrevateli?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Окна и балконы",
+              "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo/okna_i_balkony?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Потолки",
+              "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo/potolki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Садовая техника",
+              "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo/sadovaya_tehnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Сантехника и сауна",
+              "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo/santehnika_i_sauna?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Стройматериалы",
+              "href": "https://www.avito.ru/rossiya/remont_i_stroitelstvo/stroymaterialy?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Растения",
+          "href": "https://www.avito.ru/rossiya/rasteniya?s_trg=11\u0026cd=1"
+        }
+      ]
+    },
+    {
+      "title": "Транспорт",
+      "href": "https://www.avito.ru/rossiya/transport?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Автомобили",
+          "href": "https://www.avito.ru/rossiya/avtomobili?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Мотоциклы и мототехника",
+          "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Багги",
+              "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/baggi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Вездеходы",
+              "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/vezdehody?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Картинг",
+              "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/karting?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Квадроциклы",
+              "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/kvadrotsikly?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Мопеды и скутеры",
+              "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/mopedy_i_skutery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Мотоциклы",
+              "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/mototsikly?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Дорожные",
+                  "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/mototsikly/dorozhnye?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Кастом-байки",
+                  "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/mototsikly/kastom-bayki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Кросс и эндуро",
+                  "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/mototsikly/kross_i_enduro?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Спортивные",
+                  "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/mototsikly/sportivnye?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Чопперы",
+                  "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/mototsikly/choppery?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Снегоходы",
+              "href": "https://www.avito.ru/rossiya/mototsikly_i_mototehnika/snegohody?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Грузовики и спецтехника",
+          "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Автобусы",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/avtobusy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Автодома",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/avtodoma?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Автокраны",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/avtokrany?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Бульдозеры",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/buldozery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Грузовики",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/gruzoviki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Коммунальная техника",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/kommunalnaya_tehnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Лёгкий транспорт",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/legkiy_transport?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Погрузчики",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/pogruzchiki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Прицепы",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/pritsepy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Сельхозтехника",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/selhoztehnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Строительная техника",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/stroitelnaya_tehnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Техника для лесозаготовки",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/tehnika_dlya_lesozagotovki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Тягачи",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/tyagachi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Экскаваторы",
+              "href": "https://www.avito.ru/rossiya/gruzoviki_i_spetstehnika/ekskavatory?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Водный транспорт",
+          "href": "https://www.avito.ru/rossiya/vodnyy_transport?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Вёсельные лодки",
+              "href": "https://www.avito.ru/rossiya/vodnyy_transport/veselnye_lodki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Гидроциклы",
+              "href": "https://www.avito.ru/rossiya/vodnyy_transport/gidrotsikly?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Катера и яхты",
+              "href": "https://www.avito.ru/rossiya/vodnyy_transport/katera_i_yahty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Каяки и каноэ",
+              "href": "https://www.avito.ru/rossiya/vodnyy_transport/kayaki_i_kanoe?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Моторные лодки",
+              "href": "https://www.avito.ru/rossiya/vodnyy_transport/motornye_lodki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Надувные лодки",
+              "href": "https://www.avito.ru/rossiya/vodnyy_transport/naduvnye_lodki?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Запчасти и аксессуары",
+          "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Запчасти",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/zapchasti?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Для автомобилей",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Для мототехники",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/zapchasti/dlya_mototehniki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Для спецтехники",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/zapchasti/dlya_spetstehniki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Для водного транспорта",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/zapchasti/dlya_vodnogo_transporta?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Аксессуары",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/aksessuary?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "GPS-навигаторы",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/gps-navigatory?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Автокосметика и автохимия",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/avtokosmetika_i_avtohimiya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Аудио- и видеотехника",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/audio-_i_videotehnika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Багажники и фаркопы",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/bagazhniki_i_farkopy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Инструменты",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/instrumenty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Прицепы",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/pritsepy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Противоугонные устройства",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/protivougonnye_ustroystva?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Автосигнализации",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/protivougonnye_ustroystva/avtosignalizatsii?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Иммобилайзеры",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/protivougonnye_ustroystva/immobilayzery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Механические блокираторы",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/protivougonnye_ustroystva/mehanicheskie_blokiratory?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Спутниковые системы",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/protivougonnye_ustroystva/sputnikovye_sistemy?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Тюнинг",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/tyuning?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Шины, диски и колёса",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/shiny_diski_i_kolesa?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Шины",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/shiny_diski_i_kolesa/shiny?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Мотошины",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/shiny_diski_i_kolesa/motoshiny?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Диски",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/shiny_diski_i_kolesa/diski?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Колёса",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/shiny_diski_i_kolesa/kolesa?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Колпаки",
+                  "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/shiny_diski_i_kolesa/kolpaki?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Экипировка",
+              "href": "https://www.avito.ru/rossiya/zapchasti_i_aksessuary/ekipirovka?s_trg=11\u0026cd=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Бытовая электроника",
+      "href": "https://www.avito.ru/rossiya/bytovaya_elektronika?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Аудио и видео",
+          "href": "https://www.avito.ru/rossiya/audio_i_video?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "MP3-плееры",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/mp3-pleery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Акустика, колонки, сабвуферы",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/akustika_kolonki_sabvufery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Видео, DVD и Blu-ray плееры",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/video_dvd_i_blu-ray_pleery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Видеокамеры",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/videokamery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Кабели и адаптеры",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/kabeli_i_adaptery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Микрофоны",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/mikrofony?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Музыка и фильмы",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/muzyka_i_filmy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Музыкальные центры, магнитолы",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/muzykalnye_tsentry_magnitoly?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Наушники",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/naushniki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Телевизоры и проекторы",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/televizory_i_proektory?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Усилители и ресиверы",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/usiliteli_i_resivery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Аксессуары",
+              "href": "https://www.avito.ru/rossiya/audio_i_video/aksessuary?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Игры, приставки и программы",
+          "href": "https://www.avito.ru/rossiya/igry_pristavki_i_programmy?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Игры для приставок",
+              "href": "https://www.avito.ru/rossiya/igry_pristavki_i_programmy/igry_dlya_pristavok?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Игровые приставки",
+              "href": "https://www.avito.ru/rossiya/igry_pristavki_i_programmy/igrovye_pristavki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Компьютерные игры",
+              "href": "https://www.avito.ru/rossiya/igry_pristavki_i_programmy/kompyuternye_igry?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Программы",
+              "href": "https://www.avito.ru/rossiya/igry_pristavki_i_programmy/programmy?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Настольные компьютеры",
+          "href": "https://www.avito.ru/rossiya/nastolnye_kompyutery?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Ноутбуки",
+          "href": "https://www.avito.ru/rossiya/noutbuki?s_trg=11\u0026cd=1"
+        },
+        {
+          "title": "Оргтехника и расходники",
+          "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "МФУ, копиры и сканеры",
+              "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/mfu_kopiry_i_skanery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Принтеры",
+              "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/printery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Телефония",
+              "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/telefoniya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "ИБП, сетевые фильтры",
+              "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/ibp_setevye_filtry?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Уничтожители бумаг",
+              "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/unichtozhiteli_bumag?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Расходные материалы",
+              "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/rashodnye_materialy?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Блоки питания и батареи",
+                  "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/rashodnye_materialy/bloki_pitaniya_i_batarei?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Болванки",
+                  "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/rashodnye_materialy/bolvanki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Бумага",
+                  "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/rashodnye_materialy/bumaga?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Кабели и адаптеры",
+                  "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/rashodnye_materialy/kabeli_i_adaptery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Картриджи",
+                  "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/rashodnye_materialy/kartridzhi?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Канцелярия",
+              "href": "https://www.avito.ru/rossiya/orgtehnika_i_rashodniki/kantselyariya?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Планшеты и электронные книги",
+          "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Планшеты",
+              "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/planshety?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Электронные книги",
+              "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/elektronnye_knigi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Аксессуары",
+              "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Аккумуляторы",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/akkumulyatory?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Гарнитуры и наушники",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/garnitury_i_naushniki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Док-станции",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/dok-stantsii?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Зарядные устройства",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/zaryadnye_ustroystva?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Кабели и адаптеры",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/kabeli_i_adaptery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Модемы и роутеры",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/modemy_i_routery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Стилусы",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/stilusy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Чехлы и плёнки",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/chehly_i_plenki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Другое",
+                  "href": "https://www.avito.ru/rossiya/planshety_i_elektronnye_knigi/aksessuary/drugoe?s_trg=11\u0026cd=1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Телефоны",
+          "href": "https://www.avito.ru/rossiya/telefony?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Acer",
+              "href": "https://www.avito.ru/rossiya/telefony/acer?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Alcatel",
+              "href": "https://www.avito.ru/rossiya/telefony/alcatel?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "ASUS",
+              "href": "https://www.avito.ru/rossiya/telefony/asus?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "BlackBerry",
+              "href": "https://www.avito.ru/rossiya/telefony/blackberry?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "BQ",
+              "href": "https://www.avito.ru/rossiya/telefony/bq?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "DEXP",
+              "href": "https://www.avito.ru/rossiya/telefony/dexp?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Explay",
+              "href": "https://www.avito.ru/rossiya/telefony/explay?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Fly",
+              "href": "https://www.avito.ru/rossiya/telefony/fly?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Highscreen",
+              "href": "https://www.avito.ru/rossiya/telefony/highscreen?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "HTC",
+              "href": "https://www.avito.ru/rossiya/telefony/htc?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Huawei",
+              "href": "https://www.avito.ru/rossiya/telefony/huawei?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "iPhone",
+              "href": "https://www.avito.ru/rossiya/telefony/iphone?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Lenovo",
+              "href": "https://www.avito.ru/rossiya/telefony/lenovo?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "LG",
+              "href": "https://www.avito.ru/rossiya/telefony/lg?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Meizu",
+              "href": "https://www.avito.ru/rossiya/telefony/meizu?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Micromax",
+              "href": "https://www.avito.ru/rossiya/telefony/micromax?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Microsoft",
+              "href": "https://www.avito.ru/rossiya/telefony/microsoft?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Motorola",
+              "href": "https://www.avito.ru/rossiya/telefony/motorola?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "MTS",
+              "href": "https://www.avito.ru/rossiya/telefony/mts?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Nokia",
+              "href": "https://www.avito.ru/rossiya/telefony/nokia?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Panasonic",
+              "href": "https://www.avito.ru/rossiya/telefony/panasonic?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Philips",
+              "href": "https://www.avito.ru/rossiya/telefony/philips?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Prestigio",
+              "href": "https://www.avito.ru/rossiya/telefony/prestigio?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Samsung",
+              "href": "https://www.avito.ru/rossiya/telefony/samsung?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Siemens",
+              "href": "https://www.avito.ru/rossiya/telefony/siemens?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "SkyLink",
+              "href": "https://www.avito.ru/rossiya/telefony/skylink?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Sony",
+              "href": "https://www.avito.ru/rossiya/telefony/sony?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "teXet",
+              "href": "https://www.avito.ru/rossiya/telefony/texet?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Vertu",
+              "href": "https://www.avito.ru/rossiya/telefony/vertu?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Xiaomi",
+              "href": "https://www.avito.ru/rossiya/telefony/xiaomi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "ZTE",
+              "href": "https://www.avito.ru/rossiya/telefony/zte?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Другие марки",
+              "href": "https://www.avito.ru/rossiya/telefony/drugie_marki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Рации",
+              "href": "https://www.avito.ru/rossiya/telefony/ratsii?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Стационарные телефоны",
+              "href": "https://www.avito.ru/rossiya/telefony/statsionarnye_telefony?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Аксессуары",
+              "href": "https://www.avito.ru/rossiya/telefony/aksessuary?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Аккумуляторы",
+                  "href": "https://www.avito.ru/rossiya/telefony/aksessuary/akkumulyatory?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Гарнитуры и наушники",
+                  "href": "https://www.avito.ru/rossiya/telefony/aksessuary/garnitury_i_naushniki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Зарядные устройства",
+                  "href": "https://www.avito.ru/rossiya/telefony/aksessuary/zaryadnye_ustroystva?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Кабели и адаптеры",
+                  "href": "https://www.avito.ru/rossiya/telefony/aksessuary/kabeli_i_adaptery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Модемы и роутеры",
+                  "href": "https://www.avito.ru/rossiya/telefony/aksessuary/modemy_i_routery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Чехлы и плёнки",
+                  "href": "https://www.avito.ru/rossiya/telefony/aksessuary/chehly_i_plenki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Запчасти",
+                  "href": "https://www.avito.ru/rossiya/telefony/aksessuary/zapchasti?s_trg=11\u0026cd=1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Товары для компьютера",
+          "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Акустика",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/akustika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Веб-камеры",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/veb-kamery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Джойстики и рули",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/dzhoystiki_i_ruli?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Клавиатуры и мыши",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/klaviatury_i_myshi?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Комплектующие",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "CD, DVD и Blu-ray приводы",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/cd_dvd_i_blu-ray_privody?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Блоки питания",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/bloki_pitaniya?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Видеокарты",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/videokarty?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Жёсткие диски",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/zhestkie_diski?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Звуковые карты",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/zvukovye_karty?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Контроллеры",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/kontrollery?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Корпусы",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/korpusy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Материнские платы",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/materinskie_platy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Оперативная память",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/operativnaya_pamyat?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Процессоры",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/protsessory?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Системы охлаждения",
+                  "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/komplektuyuschie/sistemy_ohlazhdeniya?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Мониторы",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/monitory?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Переносные жёсткие диски",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/perenosnye_zhestkie_diski?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Сетевое оборудование",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/setevoe_oborudovanie?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "ТВ-тюнеры",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/tv-tyunery?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Флэшки и карты памяти",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/fleshki_i_karty_pamyati?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Аксессуары",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_kompyutera/aksessuary?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Фототехника",
+          "href": "https://www.avito.ru/rossiya/fototehnika?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Компактные фотоаппараты",
+              "href": "https://www.avito.ru/rossiya/fototehnika/kompaktnye_fotoapparaty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Зеркальные фотоаппараты",
+              "href": "https://www.avito.ru/rossiya/fototehnika/zerkalnye_fotoapparaty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Плёночные фотоаппараты",
+              "href": "https://www.avito.ru/rossiya/fototehnika/plenochnye_fotoapparaty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Бинокли и телескопы",
+              "href": "https://www.avito.ru/rossiya/fototehnika/binokli_i_teleskopy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Объективы",
+              "href": "https://www.avito.ru/rossiya/fototehnika/obektivy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Оборудование и аксессуары",
+              "href": "https://www.avito.ru/rossiya/fototehnika/oborudovanie_i_aksessuary?s_trg=11\u0026cd=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Личные вещи",
+      "href": "https://www.avito.ru/rossiya/lichnye_veschi?s_trg=11\u0026cd=1",
+      "childes": [
+        {
+          "title": "Одежда, обувь, аксессуары",
+          "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Женская одежда",
+              "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Брюки",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/bryuki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Верхняя одежда",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/verhnyaya_odezhda?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Джинсы",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/dzhinsy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Купальники",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/kupalniki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Нижнее бельё",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/nizhnee_bele?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Обувь",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/obuv?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Пиджаки и костюмы",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/pidzhaki_i_kostyumy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Платья и юбки",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/platya_i_yubki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Рубашки и блузки",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/rubashki_i_bluzki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Свадебные платья",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/svadebnye_platya?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Топы и футболки",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/topy_i_futbolki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Трикотаж",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/trikotazh?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Другое",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/zhenskaya_odezhda/drugoe?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Мужская одежда",
+              "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Брюки",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda/bryuki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Верхняя одежда",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda/verhnyaya_odezhda?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Джинсы",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda/dzhinsy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Обувь",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda/obuv?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Пиджаки и костюмы",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda/pidzhaki_i_kostyumy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Рубашки",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda/rubashki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Трикотаж и футболки",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda/trikotazh_i_futbolki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Другое",
+                  "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/muzhskaya_odezhda/drugoe?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Аксессуары",
+              "href": "https://www.avito.ru/rossiya/odezhda_obuv_aksessuary/aksessuary?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Детская одежда и обувь",
+          "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Для девочек",
+              "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Брюки",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/bryuki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Верхняя одежда",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/verhnyaya_odezhda?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Комбинезоны и боди",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/kombinezony_i_bodi?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Обувь",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/obuv?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Пижамы",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/pizhamy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Платья и юбки",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/platya_i_yubki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Трикотаж",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/trikotazh?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Шапки, варежки, шарфы",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/shapki_varezhki_sharfy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Другое",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_devochek/drugoe?s_trg=11\u0026cd=1"
+                }
+              ]
+            },
+            {
+              "title": "Для мальчиков",
+              "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov?s_trg=11\u0026cd=1",
+              "childes": [
+                {
+                  "title": "Брюки",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov/bryuki?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Верхняя одежда",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov/verhnyaya_odezhda?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Комбинезоны и боди",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov/kombinezony_i_bodi?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Обувь",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov/obuv?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Пижамы",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov/pizhamy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Трикотаж",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov/trikotazh?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Шапки, варежки, шарфы",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov/shapki_varezhki_sharfy?s_trg=11\u0026cd=1"
+                },
+                {
+                  "title": "Другое",
+                  "href": "https://www.avito.ru/rossiya/detskaya_odezhda_i_obuv/dlya_malchikov/drugoe?s_trg=11\u0026cd=1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Товары для детей и игрушки",
+          "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Автомобильные кресла",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/avtomobilnye_kresla?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Велосипеды и самокаты",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/velosipedy_i_samokaty?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Детская мебель",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/detskaya_mebel?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Детские коляски",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/detskie_kolyaski?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Игрушки",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/igrushki?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Постельные принадлежности",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/postelnye_prinadlezhnosti?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Товары для кормления",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/tovary_dlya_kormleniya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Товары для купания",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/tovary_dlya_kupaniya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Товары для школы",
+              "href": "https://www.avito.ru/rossiya/tovary_dlya_detey_i_igrushki/tovary_dlya_shkoly?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Часы и украшения",
+          "href": "https://www.avito.ru/rossiya/chasy_i_ukrasheniya?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Бижутерия",
+              "href": "https://www.avito.ru/rossiya/chasy_i_ukrasheniya/bizhuteriya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Часы",
+              "href": "https://www.avito.ru/rossiya/chasy_i_ukrasheniya/chasy?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Ювелирные изделия",
+              "href": "https://www.avito.ru/rossiya/chasy_i_ukrasheniya/yuvelirnye_izdeliya?s_trg=11\u0026cd=1"
+            }
+          ]
+        },
+        {
+          "title": "Красота и здоровье",
+          "href": "https://www.avito.ru/rossiya/krasota_i_zdorove?s_trg=11\u0026cd=1",
+          "childes": [
+            {
+              "title": "Косметика",
+              "href": "https://www.avito.ru/rossiya/krasota_i_zdorove/kosmetika?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Парфюмерия",
+              "href": "https://www.avito.ru/rossiya/krasota_i_zdorove/parfyumeriya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Приборы и аксессуары",
+              "href": "https://www.avito.ru/rossiya/krasota_i_zdorove/pribory_i_aksessuary?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Средства гигиены",
+              "href": "https://www.avito.ru/rossiya/krasota_i_zdorove/sredstva_gigieny?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Средства для волос",
+              "href": "https://www.avito.ru/rossiya/krasota_i_zdorove/sredstva_dlya_volos?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Медицинские изделия",
+              "href": "https://www.avito.ru/rossiya/krasota_i_zdorove/meditsinskie_izdeliya?s_trg=11\u0026cd=1"
+            },
+            {
+              "title": "Биологически активные добавки",
+              "href": "https://www.avito.ru/rossiya/krasota_i_zdorove/bad?s_trg=11\u0026cd=1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

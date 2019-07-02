@@ -133,8 +133,12 @@ func main() {
 		log.Fatal()
 	}
 
-	locationsTreeFile, err := os.Create("1_locations_tree.json")
+	locationsTreeFile, err := os.Create("locationsTree.json")
+
+	//noinspection GoUnhandledErrorResult
+	fmt.Fprintln(os.Stderr, "The result is recorded into './locationsTree.json' .")
 
 	//noinspection GoUnhandledErrorResult,GoNilness
 	locationsTreeFile.Write(resultJson)
+	fmt.Print(string(resultJson))
 }

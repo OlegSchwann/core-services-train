@@ -3,15 +3,16 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/OlegSchwann/core-services-train/2_categories/category_item"
-	"github.com/OlegSchwann/core-services-train/3_categories_moscow/category_generator"
-	_type "github.com/OlegSchwann/core-services-train/3_categories_moscow/type"
-	"github.com/OlegSchwann/core-services-train/3_categories_moscow/worker_creator"
 	"io/ioutil"
 	"log"
 	"os"
 	"strings"
 	"time"
+
+	"github.com/OlegSchwann/core-services-train/3_categories_moscow/category_generator"
+	"github.com/OlegSchwann/core-services-train/3_categories_moscow/category_item"
+	"github.com/OlegSchwann/core-services-train/3_categories_moscow/statistics_format"
+	"github.com/OlegSchwann/core-services-train/3_categories_moscow/worker_creator"
 )
 
 // Узнать количество товаров категории productCategory в месте location
@@ -67,17 +68,23 @@ func main() {
 		data[statistic.Location] = statistic.NumberOfGoods
 	}
 
-	resultJson, _ := _type.Root{
+	resultJson, _ := statistics_format.StatisticsFormat{
 		Location:           location,
 		DataCollectionTime: time.Now().Format(time.RFC3339),
 		Data:               data,
 	}.MarshalJSON()
 
-	file, err = os.Create("categories" + strings.Title(location) + ".json")
+	jsonPath := "categories" + strings.Title(location) + ".json"
+	file, err = os.Create(jsonPath)
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	//noinspection GoUnhandledErrorResult
+	fmt.Fprintf(os.Stderr, "The result is recorded into '"+jsonPath+"' .\n")
+
+	//noinspection GoUnhandledErrorResult
 	file.Write(resultJson)
+
+	fmt.Print(string(resultJson))
 }

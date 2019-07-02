@@ -97,4 +97,7 @@ func main() {
 
 	//noinspection GoUnhandledErrorResult,GoNilness
 	categoriesFile.Write(resultJson)
+	//noinspection GoUnhandledErrorResult
+	fmt.Fprintf(os.Stderr, "The result is recorded into './categories.json' .")
+	fmt.Print(string(resultJson))
 }
